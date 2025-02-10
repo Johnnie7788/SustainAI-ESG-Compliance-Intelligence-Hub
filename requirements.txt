@@ -1,0 +1,12 @@
+# Dependency List for Streamlit AI-Powered Sustainability App
+
+streamlit
+requests
+os
+time
+pandas
+numpy
+scikit-learn
+plotly
+openai
+datetime
