@@ -148,7 +148,7 @@ if st.button("Analyze Live ESG Metrics"):
 
 
 # ---- 1. Sustainability Strategy Dashboard ----
-st.header("1️⃣ Sustainability Strategy Dashboard")
+st.header("🌱  Sustainability Strategy Dashboard")
 st.write("Develop and coordinate sustainability strategies in line with CSRD and ESG principles, incorporating continuous improvement frameworks and predictive analytics.")
 
 # Dynamic KPI Customization
@@ -211,8 +211,8 @@ if st.button("Generate Recommendations"):
     else:
         st.success("Your sustainability goals are well-aligned with best practices!")
 
-# ---- 2. Industry-Standard CSRD & ESG Compliance Reporting ----
-st.header("2⃣ Industry-Standard CSRD & ESG Compliance Reporting")
+# ---- 2. CSRD & ESG Compliance Reporting ----
+st.header("⚖️  CSRD & ESG Compliance Reporting")
 st.write("Generate structured reports in compliance with CSRD and international sustainability frameworks. This module incorporates real-time data validation, automated anomaly detection, and AI-driven compliance tracking.")
 
 # Real-Time Compliance Data
@@ -256,7 +256,7 @@ if st.button("Generate Compliance Advice"):
         st.success("Your company is fully compliant with current CSRD standards!")
 
 # ---- 3. Climate Risk Analysis & Impact Measurement ----
-st.header("3⃣ Climate Risk Analysis & Impact Measurement")
+st.header("⚠️  Climate Risk Analysis & Impact Measurement")
 st.write("Assess climate risks and predict future sustainability impacts using advanced AI-driven impact measurement models, scenario analysis, and automated risk mitigation strategies.")
 
 # AI-Powered Climate Risk Forecasting
@@ -330,7 +330,7 @@ if st.button("Generate Risk Mitigation Plan"):
         st.write(f"- {strategy}")
 
 # ---- 4. ESG Data Collection & Analytics Hub ----
-st.header("4⃣ ESG Data Collection & Analytics Hub")
+st.header("📈  ESG Data Collection & Analytics Hub")
 st.write("Automated, real-time ESG data collection and analytics across departments, ensuring data accuracy, AI-driven insights, and compliance tracking.")
 
 # AI-Powered ESG Data Validation
@@ -383,7 +383,7 @@ else:
     st.stop()  # Stop execution if key is missing
 
 # ---- AI-Powered Sustainability Advisor ----
-st.header("5⃣ AI-Powered Sustainability Advisor")
+st.header("🤖  AI-Powered Sustainability Advisor")
 st.write("Search for sustainability information, regulatory compliance updates, and industry trends.")
 
 # ---- AI Chat Interface ----
@@ -430,7 +430,7 @@ if st.button("Search Sustainability Info") and user_query:
 
 
 # ---- 6. Sustainability Budget Optimization ----
-st.header("6⃣ Sustainability Budget Optimization")
+st.header("💰  Sustainability Budget Optimization")
 st.write("Optimize sustainability investments with AI-driven predictive modeling and dynamic budget allocation strategies.")
 
 # AI-Powered Budget Forecasting
@@ -472,7 +472,7 @@ if st.button("Generate ROI Forecast"):
         st.write(f"- {roi}")
 
 # ---- 7. Automated ESG Auditing & Compliance Tracker ----
-st.header("7⃣ Automated ESG Auditing & Compliance Tracker")
+st.header("✅  Automated ESG Auditing & Compliance Tracker")
 st.write("Monitor sustainability compliance, generate audit reports, and support internal and external audits with AI-driven analysis and predictive risk assessment.")
 
 # AI-Powered Audit Report Generation
