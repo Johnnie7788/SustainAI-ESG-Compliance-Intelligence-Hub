@@ -1,0 +1,18 @@
+# Dependency List for Streamlit AI-Powered Sustainability App
+
+# Web Framework
+streamlit
+
+# API Requests
+requests
+
+# Data Science & Machine Learning
+pandas
+numpy
+scikit-learn
+
+# Visualization
+plotly
+
+# AI & NLP (Ensure OpenAI API Key is set up before use)
+openai
