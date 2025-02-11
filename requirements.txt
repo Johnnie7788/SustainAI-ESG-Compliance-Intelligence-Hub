@@ -16,3 +16,4 @@ plotly
 
 # AI & NLP (Ensure OpenAI API Key is set up before use)
 openai
+beautifulsoup4  # Required for web scraping
